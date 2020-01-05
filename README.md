@@ -9,3 +9,5 @@ La actividad ha sido realizada de manera individual por Jesica Piñón Rodrígue
 Ficheros
 main.R: Código empleado para realizar la prácgtica.
 PRA2_Respuestas.pdf: Documento PDF con la respuesta a las preguntas realizadas en la PRA2.
+diamonds.csv: Fichero original de datos
+diamonds_final.csv: Fichero final previo al análisis del apartado 4.
